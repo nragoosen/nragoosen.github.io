@@ -22,9 +22,7 @@
 title: Bonus track blog
 email: test@email.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog is made to keep track of my own learning progression. Besides that there's not much to see here.
 domain: "nragoosen.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nragoosen.github.io" # the base hostname & protocol for your site, e.g. http://example.com

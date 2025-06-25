@@ -30,6 +30,7 @@ twitter_username:
 github_username:  nragoosen
 author: Nick Goosen
 
+future: true
 # Build settings
 theme: minima
 plugins:

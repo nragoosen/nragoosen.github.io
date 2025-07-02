@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-25T14:39:01+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bonus track blog</title><subtitle>This blog is made to keep track of my own learning progression. Besides that there&apos;s not much to see here.</subtitle><author><name>Nick Goosen</name></author><entry><title type="html">Arch installation</title><link href="http://localhost:4000/jekyll/update/2025/06/24/arch-linux-install.html" rel="alternate" type="text/html" title="Arch installation" /><published>2025-06-24T01:48:41+02:00</published><updated>2025-06-24T01:48:41+02:00</updated><id>http://localhost:4000/jekyll/update/2025/06/24/arch-linux-install</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/06/24/arch-linux-install.html"><![CDATA[<h1 id="a001-install-arch-by-the-way">A001 Install arch, <em>by the way</em></h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-30T14:42:07+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bonus track blog</title><subtitle>This blog is made to keep track of my own learning progression. Besides that there&apos;s not much to see here.</subtitle><author><name>Nick Goosen</name></author><entry><title type="html">Network week one #1</title><link href="http://localhost:4000/jekyll/update/2025/06/30/network-week-one.html" rel="alternate" type="text/html" title="Network week one #1" /><published>2025-06-30T10:00:00+02:00</published><updated>2025-06-30T10:00:00+02:00</updated><id>http://localhost:4000/jekyll/update/2025/06/30/network-week-one</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/06/30/network-week-one.html"><![CDATA[<h1 id="a003-network-week-one-1">A003 Network week one (1)</h1>
+
+<p><strong>(30/06/2025)</strong></p>
+
+<p>For the first subject of network week I’ve decided to pick up on the topic of firewalls. The reason why is, I know what a firewall is and what it does but I’d like to get some more in-depth knowledge of firewalls.</p>
+
+<p>A firewall is the first line of defense against any bad harm coming towards your network, i.e. cyber threats, malicious attacks and unauthorized access attempts from the outside. The firewall helps filtering this, imagine it as some sort of border control. The packages come in/go out, the firewall funnels it and checks the packages for bad intentions.</p>
+
+<p>All firewalls have three basic functions</p>
+<ul>
+  <li>Blocking unauthorized access</li>
+  <li>Allowing legitimate traffic</li>
+  <li>Preventing malicious software from spreading</li>
+</ul>
+
+<p>Theres also a bunch of different firewalls, where some kinds of firewalls work on different OSI layers, the most common layers being layer 3 (network) and 4 (transport).
+I was gonna list them here but the more I’m reading into it, the deeper the rabbithole goes. So I’m gonna link the 2 sources I’ve used most for this.</p>
+
+<p>This way, may you be interested you can check those out and so I can read into it at any later moment.</p>
+
+<p><em>Sources</em></p>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Firewall_(computing)">https://en.wikipedia.org/wiki/Firewall_(computing)</a></li>
+  <li><a href="https://www.crowdsec.net/glossary/what-does-a-firewall-do#what-is-a-firewall">https://www.crowdsec.net/glossary/what-does-a-firewall-do#what-is-a-firewall</a></li>
+</ul>
+
+<p><strong><em>tl;dr</em></strong> A firewall checks incoming and outgoing packages, being the first line of defense when it comes to cyber attacks or malicious packages.
+There are a bunch of different firewalls, most of them operating on layer 3 and 4 of the ISO layer.
+This topic is such a rabbithole so for more information check out the 2 links that I put under sources.</p>]]></content><author><name>Nick Goosen</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[A003 Network week one (1)]]></summary></entry><entry><title type="html">Write a JS app</title><link href="http://localhost:4000/jekyll/update/2025/06/25/bit-to-byte-conv.html" rel="alternate" type="text/html" title="Write a JS app" /><published>2025-06-25T14:48:41+02:00</published><updated>2025-06-25T14:48:41+02:00</updated><id>http://localhost:4000/jekyll/update/2025/06/25/bit-to-byte-conv</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/06/25/bit-to-byte-conv.html"><![CDATA[<h1 id="a002-write-a-javascript-app">A002 Write a javascript app</h1>
+
+<p><strong>(24/06/2025)</strong></p>
+
+<p>The assignment was bit unspecific on whether what it expected. Nonetheless I started working towards what I thought was needed along with a friend of mine. Made a rough prototype, after a bit we got the basics working, from that point on everything went smooth. Grabbed some basic css from internet, tweaked it a bit to my own liking, looked at different approaches with js and picked one that seemed the most clean. The HTML remained pretty standard, not much going on in there.</p>
+
+<p>My JS knowledge is pretty minimum so the help of my friend and internet helped, pretty fun assignment but a bit underwhelming if I’m honest. Nonetheless it’s one of the first assignments so a normal buildup seems fair.</p>
+
+<p><strong><em>tl;dr</em></strong> Went smoother than expected, it was fun to do although it felt a bit underwhelming. Maybe enlarge the assignment a bit more, this wouldn’t necessarily make it harder but it’d make it more interesting.</p>]]></content><author><name>Nick Goosen</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[A002 Write a javascript app]]></summary></entry><entry><title type="html">Arch installation</title><link href="http://localhost:4000/jekyll/update/2025/06/24/arch-linux-install.html" rel="alternate" type="text/html" title="Arch installation" /><published>2025-06-24T01:48:41+02:00</published><updated>2025-06-24T01:48:41+02:00</updated><id>http://localhost:4000/jekyll/update/2025/06/24/arch-linux-install</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/06/24/arch-linux-install.html"><![CDATA[<h1 id="a001-install-arch-by-the-way">A001 Install arch, <em>by the way</em></h1>
 
 <p><strong>(20/06/2025)</strong></p>
 

@@ -18,4 +18,4 @@ When we i.e. type in google.com in our web-browser, we get redirected to google.
 
 This is what DNS does in a short summary, I've read most of the wiki and there is a lot more to it than what I've wrote down, but I'm also no trying to make this the size of an essay. So if you're interested, help yourself :^).
 
-*source: https://en.wikipedia.org/wiki/Domain_Name_System*
+*source: [https://en.wikipedia.org/wiki/Domain_Name_System](https://en.wikipedia.org/wiki/Domain_Name_System)*

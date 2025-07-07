@@ -7,7 +7,7 @@ categories: jekyll update
 
 # A003 Network week one (4)
 
-**(02/07/2025)**
+**(03/07/2025)**
 
 Ports. Starting off with what a port is; *A port is a virtual point where network connections start and end.* To put this in perspective, we can compare it to the number of a house in a street. Lets say the name of the street is the address, then we can use the port as the number of the house. So for example: 127.0.0.1("streetname"):5000("number"). This way the data that is sent knows where exactly to deliver it. 
 
